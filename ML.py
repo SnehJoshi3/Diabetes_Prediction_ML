@@ -62,7 +62,7 @@ Knn = KNeighborsClassifier(13)
 Knn.fit(X_train , y_train)
 Knn.score(X_test,y_test)
 
-y_pred = knn.predict(X_test)
+y_pred = Knn.predict(X_test)
 confusion_matrix(y_test , y_pred)
 
 print(classification_report(y_test,y_pred))
