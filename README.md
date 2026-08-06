@@ -2,7 +2,6 @@
 
 An end-to-end Machine Learning pipeline and Exploratory Data Analysis (EDA) on the PIMA Indians Diabetes dataset. This project cleans, visualizes, scales, and evaluates a **K-Nearest Neighbors (KNN)** classification model to predict diabetic outcomes based on diagnostic measurements.
 
-# dataset credits :https://www.kaggle.com/datasets/kumargh/pimaindiansdiabetescsv
 ---
 
 ## 📌 Table of Contents
