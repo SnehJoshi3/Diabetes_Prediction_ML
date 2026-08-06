@@ -76,3 +76,6 @@ The final KNN model evaluated on the unseen $30\%$ test dataset yields the follo
     accuracy                           0.73       231
    macro avg       0.70      0.70      0.70       231
 weighted avg       0.73      0.73      0.73       231
+```
+# Dataset Link :
+https://www.kaggle.com/datasets/mragpavank/diabetes
